@@ -7,7 +7,7 @@
 ![download npm month](https://img.shields.io/npm/dm/hakata.svg)
 ![license](https://img.shields.io/npm/l/hakata.svg)
 
-Hakta is a service registry build primarily on [Node.js](http://nodejs.org/)/[io.js](https://iojs.org/en/index.html), integrated with [Tourniquet](https://github.com/voudeonibus/Tourniquet).
+Hakata is a service registry build primarily on [Node.js](http://nodejs.org/)/[io.js](https://iojs.org/en/index.html), integrated with [Tourniquet](https://github.com/voudeonibus/Tourniquet).
 
 Proxy Reverse with Registry Service by Vou de Ônibus.
 
