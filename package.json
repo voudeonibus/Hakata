@@ -1,6 +1,6 @@
 {
   "name": "hakata",
-  "version": "1.0.0",
+  "version": "1.0.0-alpha",
   "description": "Proxy (in progress)",
   "main": "index.js",
   "scripts": {
