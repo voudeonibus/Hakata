@@ -9,7 +9,7 @@
 
 Hakata is a service registry build primarily on [Node.js](http://nodejs.org/)/[io.js](https://iojs.org/en/index.html), integrated with [Tourniquet](https://github.com/voudeonibus/Tourniquet).
 
-Reverse Proxy with Registry Service by Vou de Ônibus.
+Reverse Proxy with Registry Service by Vou de ônibus.
 
 ## Table of contents
 
